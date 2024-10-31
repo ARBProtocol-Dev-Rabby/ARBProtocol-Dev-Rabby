@@ -4,8 +4,8 @@
   </a>
 </p>
 
-Hello, I'm a passionate self-taught Blockchain developer and software engineer from worldwide.
-I take great care in the experience, architecture, and code quality of the things I build.
+Hello, I’m from India, currently pursuing my master’s at the University of Melbourne. 
+My research focus is blockchain development. God bless everyone who works hard! 📖
 
 <p align="left" style="font-family: Brush Script MT"> 
     <img src="https://komarev.com/ghpvc/?username=chinmay29hub&label=Profile%20views&color=0e75b6&style=flat" alt="Harry" /> 
